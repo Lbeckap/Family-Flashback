@@ -26,8 +26,8 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ShawnC-LaunchCode/liftoff-dec24-group1.git
-cd liftoff-dec24-group1
+git clone https://github.com/Lbeckap/family-flashback.git
+cd family-flashback
 ```
 
 ### Backend Setup (Java/Spring Boot)
@@ -90,7 +90,7 @@ git push origin feature/your-feature-name
 ## Project Structure
 
 ```
-liftoff-dec24-group1/
+family-flashback/
 ├── frontend/                 # React application
 │   ├── public/              # Static files
 │   ├── src/                 # Source files
